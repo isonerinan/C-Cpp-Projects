@@ -1,0 +1,11 @@
+﻿  Düello.cpp
+C:\Users\soner\source\repos\Düello\Düello\Düello.cpp(47,19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\soner\source\repos\Düello\Düello\Düello.cpp(82,19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\soner\source\repos\Düello\Düello\Düello.cpp(123,19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\soner\source\repos\Düello\Düello\Düello.cpp(160,19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\soner\source\repos\Düello\Düello\Düello.cpp(178,19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Kod üretiliyor
+  Previous IPDB not found, fall back to full compilation.
+  All 127 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Kodun üretilmesi tamamlandı
+  Düello.vcxproj -> C:\Users\soner\source\repos\Düello\Release\Düello.exe

@@ -1,0 +1,10 @@
+﻿  homework1.c
+C:\Users\soner\source\repos\Sıla Ödev\Sıla Ödev\homework1.c(32,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\soner\source\repos\Sıla Ödev\Sıla Ödev\homework1.c(33,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\soner\source\repos\Sıla Ödev\Sıla Ödev\homework1.c(43,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\soner\source\repos\Sıla Ödev\Sıla Ödev\homework1.c(44,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\soner\source\repos\Sıla Ödev\Sıla Ödev\homework1.c(54,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\soner\source\repos\Sıla Ödev\Sıla Ödev\homework1.c(55,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\soner\source\repos\Sıla Ödev\Sıla Ödev\homework1.c(65,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\soner\source\repos\Sıla Ödev\Sıla Ödev\homework1.c(66,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Sıla Ödev.vcxproj -> C:\Users\soner\source\repos\Sıla Ödev\Debug\Sıla Ödev.exe

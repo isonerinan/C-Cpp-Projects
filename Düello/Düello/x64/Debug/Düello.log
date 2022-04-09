@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(495,5): warning MSB8003: WindowsSDKDir özelliği tanımlı değil. Bazı derleme araçları bulunamayabilir.
+  Düello.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\yvals.h(12,10): fatal error C1083: içerme dosyası açılamıyor: 'crtdbg.h': No such file or directory
