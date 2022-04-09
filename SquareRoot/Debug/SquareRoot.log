@@ -1,4 +1,0 @@
-﻿  SquareRoot.c
-C:\Users\soner\source\repos\SquareRoot\SquareRoot\SquareRoot.c(65,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\soner\source\repos\SquareRoot\SquareRoot\SquareRoot.c(74,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  SquareRoot.vcxproj -> C:\Users\soner\source\repos\SquareRoot\Debug\SquareRoot.exe
