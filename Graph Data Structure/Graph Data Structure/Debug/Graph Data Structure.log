@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\soner\source\repos\Graph Data Structure\Graph Data Structure\Source.c(92,37): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\soner\source\repos\Graph Data Structure\Graph Data Structure\Source.c(92,37): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  Graph Data Structure.vcxproj -> C:\Users\soner\source\repos\Graph Data Structure\Debug\Graph Data Structure.exe

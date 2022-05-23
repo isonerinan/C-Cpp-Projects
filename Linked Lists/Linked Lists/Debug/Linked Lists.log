@@ -1,0 +1,90 @@
+﻿  LinkedLists.c
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(54,30): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(58,30): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(52,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(69,1): error C2040: 'unorderedName': 'int' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(69,29): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(69,25): warning C4024: 'newNode': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(69,35): warning C4047: 'function': 'char' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(69,31): warning C4024: 'newNode': different types for formal and actual parameter 2
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(71,1): error C2040: 'unorderedFaculty': 'int' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(71,32): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(71,28): warning C4024: 'newNode': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(71,38): warning C4047: 'function': 'char' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(71,34): warning C4024: 'newNode': different types for formal and actual parameter 2
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(73,1): error C2040: 'unorderedYear': 'int' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(73,29): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(73,25): warning C4024: 'newNode': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(73,35): warning C4047: 'function': 'char' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(73,31): warning C4024: 'newNode': different types for formal and actual parameter 2
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(75,1): error C2040: 'unorderedID': 'int' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(75,27): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(75,23): warning C4024: 'newNode': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(75,33): warning C4047: 'function': 'char' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(75,29): warning C4024: 'newNode': different types for formal and actual parameter 2
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(112,36): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(112,32): warning C4024: 'newNode': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(112,42): warning C4047: 'function': 'char' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(112,38): warning C4024: 'newNode': different types for formal and actual parameter 2
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(115,30): warning C4047: 'function': 'StackNode **' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(115,22): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(115,36): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(115,32): warning C4024: 'push': different types for formal and actual parameter 2
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(118,26): warning C4047: 'function': 'StackNode **' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(118,18): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(118,32): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(118,28): warning C4024: 'push': different types for formal and actual parameter 2
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(118,37): warning C4047: 'function': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(118,34): warning C4024: 'push': different types for formal and actual parameter 3
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(121,30): warning C4047: 'function': 'StackNode **' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(121,22): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(121,36): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(121,32): warning C4024: 'push': different types for formal and actual parameter 2
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(125,31): warning C4047: 'function': 'StackNode **' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(125,18): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(125,37): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(125,33): warning C4024: 'push': different types for formal and actual parameter 2
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(125,47): warning C4047: 'function': 'char' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(125,39): warning C4024: 'push': different types for formal and actual parameter 3
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(129,39): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(129,35): warning C4024: 'newNode': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(129,45): warning C4047: 'function': 'char' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(129,41): warning C4024: 'newNode': different types for formal and actual parameter 2
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(131,33): warning C4047: 'function': 'StackNode **' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(131,22): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(131,61): warning C4047: 'function': 'char' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(131,57): warning C4024: 'push': different types for formal and actual parameter 3
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(135,34): warning C4047: 'function': 'StackNode **' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(135,18): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(135,47): warning C4047: 'function': 'int' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(135,36): warning C4024: 'push': different types for formal and actual parameter 2
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(135,53): warning C4047: 'function': 'char' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(135,49): warning C4024: 'push': different types for formal and actual parameter 3
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(139,36): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(139,32): warning C4024: 'newNode': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(139,42): warning C4047: 'function': 'char' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(139,38): warning C4024: 'newNode': different types for formal and actual parameter 2
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(141,30): warning C4047: 'function': 'StackNode **' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(141,22): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(141,58): warning C4047: 'function': 'char' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(141,54): warning C4024: 'push': different types for formal and actual parameter 3
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(145,31): warning C4047: 'function': 'StackNode **' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(145,18): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(145,41): warning C4047: 'function': 'int' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(145,33): warning C4024: 'push': different types for formal and actual parameter 2
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(145,47): warning C4047: 'function': 'char' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(145,43): warning C4024: 'push': different types for formal and actual parameter 3
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(149,34): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(149,30): warning C4024: 'newNode': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(149,40): warning C4047: 'function': 'char' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(149,36): warning C4024: 'newNode': different types for formal and actual parameter 2
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(151,28): warning C4047: 'function': 'StackNode **' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(151,22): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(151,56): warning C4047: 'function': 'char' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(151,52): warning C4024: 'push': different types for formal and actual parameter 3
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(155,29): warning C4047: 'function': 'StackNode **' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(155,18): warning C4024: 'push': different types for formal and actual parameter 1
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(155,37): warning C4047: 'function': 'int' differs in levels of indirection from 'StackNode *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(155,31): warning C4024: 'push': different types for formal and actual parameter 2
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(155,43): warning C4047: 'function': 'char' differs in levels of indirection from 'void *'
+C:\Users\soner\source\repos\Linked Lists\Linked Lists\LinkedLists.c(155,39): warning C4024: 'push': different types for formal and actual parameter 3
